@@ -7,3 +7,7 @@
 
 # Тестирование SOAP сервисов
 [Ссылка на документ] (https://www.postman.com/maksim-3765557/workspace/maksim-s-workspace/collection/45498993-2822dc90-14e5-4518-aa4a-832c190f1e38?action=share&creator=45498993&active-environment=45498993-ac55ba56-6e50-465c-91b4-df99871e9382)
+# Тест-кейсы с Postman в Qase
+[Ссылка на документ] (https://github.com/MaximKuznetcov/api/blob/main/Test_Cases_in_Postman.pdf)
+# Обновленная коллекция в Postman
+[Ссылка на документ] (https://www.postman.com/maksim-3765557/maksim-s-workspace/collection/itfnyv3/demoshopping?action=share&creator=45498993&active-environment=45498993-4b2b283c-3b80-474e-8fa9-15a86c8a425d)
